@@ -1,0 +1,1 @@
+<p>Se le informara por este flujo cuando sus documentos sean aceptados</p>
